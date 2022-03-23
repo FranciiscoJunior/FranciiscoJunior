@@ -16,7 +16,7 @@
 
   <img align="center" alt="junior-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="center" alt="junior-Postegresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="junior-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   ##
  
@@ -33,7 +33,6 @@
   ![Snake animation](https://github.com/FranciscoJunioro07/FranciscoJunioro07/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
 <!--
 **FranciscoJunioro07/FranciscoJunioro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
