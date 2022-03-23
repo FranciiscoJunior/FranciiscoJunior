@@ -1,4 +1,5 @@
-### Hi there, me chamo Francisco Junior sou estudante de graduação em bacharelado em sistemas de informação pela UFERSA pretendo me desenvolver mais na parte de desenvolvimento front-End aprender HTML, CSS, JAVASCRIPT, REACT  e também um banco de dados  POSTGRESQL.
+## Olá, me chamo Francisco Junior sou estudante de bacharelado em sistemas de informação pela UFERSA pretendo me desenvolver mais na parte de desenvolvimento front-End aprender, JAVASCRI, JAVASCRI, REACT e também um banco de dados POSTGRESQL.
+
 <div align="center">
   <a href="https://github.com/FranciscoJunioro07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoJunioro07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
