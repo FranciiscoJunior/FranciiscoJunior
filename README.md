@@ -16,7 +16,6 @@
 
   <img align="center" alt="junior-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="center" alt="junior-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   ##
  
@@ -31,7 +30,6 @@
   <a href="https://www.linkedin.com/in/francisco-junior-348a14209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/FranciscoJunioro07/FranciscoJunioro07/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 <!--
 **FranciscoJunioro07/FranciscoJunioro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
