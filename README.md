@@ -1,6 +1,6 @@
 # Olá, tudo bem? Eu sou Francisco Junior!
 
-. Sou estudante de bachareado em sistemas de informação - UFERSA 
+. Sou estudante de bacharelado em sistemas de informação - UFERSA 
 
 . No momento estou estudando as seguintes tecnologias HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
 
