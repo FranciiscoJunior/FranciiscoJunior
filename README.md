@@ -1,5 +1,9 @@
-# Sobre mim:
- ## Olá, eu sou Francisco Junior, sou estudante de bacharelado em sistemas de informação e pretendo me desenvolver na parte de front-End, aprender HTML, CSS, JAVASCRIPT, REACT e também um banco de dados POSTGRESQL!
+# Olá, tudo bem? Eu sou Francisco Junior!
+
+# Sou estudante de bachareado em sistemas de informação - UFERSA 
+# No momento estou estudando as seguintes tecnologias HTML, CSS, JAVASCRIPT, TYPESCRIPT,SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
+
+# Fique a vontade para olhar o meu perfil 
 
 <div align="center">
   <a href="https://github.com/FranciscoJunior07">
