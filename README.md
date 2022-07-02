@@ -2,7 +2,7 @@
 
 Sou estudante de bacharelado em sistemas de informação - UFERSA;
 
-Sou uma pessoa esforçada, gosto muito de trabalhar em grupo, porém em alguns momentos prefiro trabalhar sozinho porque me sinto mais produtivo, em alguns momentos me concentro melhor;
+Sou uma pessoa esforçada, gosto muito de trabalhar em grupo, porém em alguns momentos prefiro trabalhar só porque me concentro melhor, me sinto mais produtivo!
 
 No momento estou estudando as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
 
