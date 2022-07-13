@@ -39,8 +39,8 @@ Fique a vontade para olhar o meu perfil.
 
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-
 </div>
+
 # Onde me encontrar:
   
 <div> 
