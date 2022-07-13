@@ -18,7 +18,7 @@ Fique a vontade para olhar o meu perfil.
   
 <div style="display: inline_block"><br>
 <img align="center" alt="junior-WINDOWS" height="30" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img align="center" alt="junior-" height="30" width="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+<img align="center" alt="junior-VSCODE" height="30" width="40" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 ">
   <img align="center" alt="junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
