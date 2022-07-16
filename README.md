@@ -2,7 +2,7 @@
 
 • Estudante de bacharelado em sistemas de informação - UFERSA - CMA;
 
-• Em busca de um estágio na área de desenvolvimento web;´
+• Em busca de um estágio na área de desenvolvimento web;
 
 • Estou entre aqueles que acreditam que a tecnologia muda a vida das pessoas para melhor;
 
