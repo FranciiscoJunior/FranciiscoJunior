@@ -1,12 +1,18 @@
-# Olá, tudo bem? Eu sou Francisco Junior!
+# Hello World, tudo bem? Eu sou Francisco Junior!
 
-Sou estudante de bacharelado em sistemas de informação - UFERSA;
+• Estudante de bacharelado em sistemas de informação - UFERSA - CMA;
 
-Gosto muito de trabalhar em grupo, mas em alguns momentos prefiro trabalhar só, pois me sinto mais produtivo e me concentro melhor;
+• Em busca de um estágio na área de desenvolvimento web;´
 
-Estou estudando as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
+• Estou entre aqueles que acreditam que a tecnologia muda a vida das pessoas para melhor;
 
-Fique a vontade para olhar o meu perfil.
+• Sempre disposto a aprender cada vez mais, e mergulhar no universo tecnologico;
+
+• Gosto muito de trabalhar em grupo, mas em alguns momentos prefiro trabalhar só, pois me sinto mais produtivo e me concentro melhor;
+
+• Estou estudando as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
+
+• Fique a vontade para olhar o meu perfil.
 
 <div align="center">
   <a href="https://github.com/FranciiscoJunior">
