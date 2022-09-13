@@ -1,11 +1,17 @@
 # Hello World, tudo bem? Eu sou Francisco Junior!
 
 • Estudante de graduação em sistemas de informação - UFERSA - CMA;
+
 • Em busca de um estágio na área de desenvolvimento web;
+
 • Estou entre aqueles que acreditam que a tecnologia muda a vida das pessoas para melhor;
+
 • Sempre disposto a aprender cada vez mais, e mergulhar no universo tecnologico;
+
 • Gosto muito de trabalhar em grupo;
+
 • Estou estudando as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
+
 • Fique a vontade para olhar o meu perfil.
 
 <div align="center">
