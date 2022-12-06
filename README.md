@@ -2,7 +2,7 @@
 
 • Estudante de graduação em sistemas de informação - UFERSA - CMA;
 
-• Em busca de um estágio na área de desenvolvimento web;
+• Em busca de um estágio na área de desenvolvimento web, mas especificamente focado na parte de desenvolvimento front-end;
 
 • Estou entre aqueles que acreditam que a tecnologia muda a vida das pessoas para melhor;
 
@@ -10,7 +10,7 @@
 
 • Gosto muito de trabalhar em grupo;
 
-• Estou estudando as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
+• Estou estudando um curso extra curricular que contém as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
 
 • Fique a vontade para olhar o meu perfil.
 
@@ -48,7 +48,7 @@
   <img align="center" alt="junior-POSTEGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
+[](https://github.com/FranciiscoJunior)
 </div>
 
 # Onde me encontrar:
