@@ -8,7 +8,7 @@
 
 • Sempre disposto a aprender cada vez mais, e mergulhar no universo tecnologico;
 
-• Gosto muito de trabalhar em grupo;
+• Gosto muito de trabalhar em grupo, sou esforçado e estou sempre aberto a aprender algo novo e me desenvolver cada vez mais de acordo com cada necessidade;
 
 • Estou estudando um curso extra curricular que contém as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;
 
