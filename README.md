@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/FranciiscoJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&show_icons=true&theme=rainglow&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=rainglow"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&show_icons=true&theme=night owl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=night owl"/>  
 </div>
 
 # Algumas das ferramentas de trabalho, e de estudos
