@@ -1,18 +1,18 @@
-<h2> Hello World, tudo bem? Eu sou Francisco Junior! <h2/>
-<h3> • Estudante de graduação em sistemas de informação - UFERSA - CMA; <h3/>
+<h2>Hello World, tudo bem? Eu sou Francisco Junior! <h2/>
+<h3>• Estudante de graduação em sistemas de informação - UFERSA - CMA;<h3/>
 
-<h3> • Em busca de um estágio na área de desenvolvimento web, mas especificamente focado na parte de desenvolvimento front-end; <h3/>
+<h3>• Em busca de um estágio na área de desenvolvimento web, mas especificamente focado na parte de desenvolvimento front-end;<h3/>
 
-<h3> • Estou entre aqueles que acreditam que a tecnologia muda a vida das pessoas para melhor; <h3/>
+<h3>• Estou entre aqueles que acreditam que a tecnologia muda a vida das pessoas para melhor;<h3/>
 
-<h3> • Sempre disposto a aprender cada vez mais, e mergulhar no universo tecnologico; <h3/>
+<h3>• Sempre disposto a aprender cada vez mais, e mergulhar no universo tecnologico;<h3/>
 
-<h3> • Gosto muito de trabalhar em grupo, sou esforçado e estou sempre aberto a aprender algo novo e me desenvolver cada vez mais, de acordo com cada necessidade; <h3/>
+<h3>• Gosto muito de trabalhar em grupo, sou esforçado e estou sempre aberto a aprender algo novo e me desenvolver cada vez mais, de acordo com cada necessidade;<h3/>
 
-<h3> • Estou estudando um curso extra curricular que contém as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB; <h3/>
+<h3>• Estou estudando um curso extra curricular que contém as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;<h3/>
 
-<h3> • Fique a vontade para olhar o meu perfil. <h3/>
-<h3> Historico das principais contribuicoes, e grafico das linguagens mais utilizadas <h3/>
+<h3>• Fique a vontade para olhar o meu perfil.<h3/>
+<h3>Historico das principais contribuicoes, e grafico das linguagens mais utilizadas<h3/>
 <hr/>
 <div align="center">
   <a href="https://github.com/FranciiscoJunior">
