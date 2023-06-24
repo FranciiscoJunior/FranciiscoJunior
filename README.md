@@ -1,5 +1,4 @@
 <h2> Hello World, tudo bem? Eu sou Francisco Junior! <h2/>
-
 <h3> • Estudante de graduação em sistemas de informação - UFERSA - CMA; <h3/>
 
 <h3> • Em busca de um estágio na área de desenvolvimento web, mas especificamente focado na parte de desenvolvimento front-end; <h3/>
@@ -20,7 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=nightowl"/>  
 </div>
-
 <h2> Algumas das ferramentas de trabalho, e de estudos. <h2/>
 <hr/>
 <div style="display: inline_block"><br>
@@ -52,7 +50,6 @@
 </div>
 <h2> Algumas de minhas redes sociais, caso deseje entrar em contato comigo! <h2/>
 <h2> Me adicione ⤵️<h2/>
-<hr/>
 <div> 
   <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:franciscoamj1001@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
