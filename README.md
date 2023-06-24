@@ -1,4 +1,4 @@
-# Hello World, tudo bem? Eu sou Francisco Junior!
+<h2> Hello World, tudo bem? Eu sou Francisco Junior! <h2/>
 
 • Estudante de graduação em sistemas de informação - UFERSA - CMA;
 
@@ -14,7 +14,7 @@
 
 • Fique a vontade para olhar o meu perfil.
 
-# Historico das principais contribuicoes, e grafico das linguagens mais utilizadas.
+<h2> Historico das principais contribuicoes, e grafico das linguagens mais utilizadas <h2/>
 
 <div align="center">
   <a href="https://github.com/FranciiscoJunior">
@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=nightowl"/>  
 </div>
 
-# Algumas das ferramentas de trabalho, e de estudos.
+<h2> Algumas das ferramentas de trabalho, e de estudos. <h2/>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="junior-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -52,7 +52,9 @@
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-# Algumas de minhas redes sociais, caso deseje entrar em contato comigo, me adicione.
+<h2> Algumas de minhas redes sociais, caso deseje entrar em contato comigo! <h2/>
+
+<h2> Me adicione ⤵️<h2/>
 
 <div> 
   <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
