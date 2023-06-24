@@ -13,7 +13,6 @@
 <h3> • Estou estudando um curso extra curricular que contém as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB; <h3/>
 
 <h3> • Fique a vontade para olhar o meu perfil. <h3/>
-
 <h3> Historico das principais contribuicoes, e grafico das linguagens mais utilizadas <h3/>
 <hr/>
 <div align="center">
@@ -51,7 +50,6 @@
 
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
-
 <h2> Algumas de minhas redes sociais, caso deseje entrar em contato comigo! <h2/>
 <h2> Me adicione ⤵️<h2/>
 <hr/>
