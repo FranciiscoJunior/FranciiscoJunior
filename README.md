@@ -21,7 +21,7 @@
 </div>
 <h2> Algumas das ferramentas de trabalho, e de estudos. <h2/>
 <hr/>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <img align="center" alt="junior-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
   <img align="center" alt="junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
