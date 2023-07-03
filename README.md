@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=nightowl"/>  
 </div>
 
-<h2> Algumas das ferramentas de trabalho, e de estudos. <h2/>
+<h3> Algumas das ferramentas de trabalho, e de estudos. <h3/>
 
 <div style="display: inline_block">
 <img align="center" alt="junior-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -49,9 +49,9 @@
 
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
-<h2> Algumas de minhas redes sociais, caso deseje entrar em contato comigo! <h2/>
+<h3> Algumas de minhas redes sociais, caso deseje entrar em contato comigo! <h3/>
 
-<h4>Me adicione⤵️<h4/>
+<h3>Me adicione⤵️<h3/>
 <div> 
   <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "e-mail:franciscoamj1001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
