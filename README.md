@@ -1,4 +1,4 @@
-<h2>Hello World, tudo bem? Eu sou Francisco Junior! <h2/>
+<h2>Hello World, tudo bem? Eu sou Francisco Junior!<h2/>
 <h4>• Estudante de graduação em sistemas de informação - UFERSA - CMA;<h4/>
 
 <h4>• Em busca de um estágio na área de desenvolvimento web, mas especificamente focado na parte de desenvolvimento front-end;<h4/>
@@ -18,6 +18,7 @@
   <a href="https://github.com/FranciiscoJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=nightowl"/>  
+  <img heigth="180en" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats">
 </div>
 
 <h3> Algumas das ferramentas de trabalho, e de estudos. <h3/>
@@ -49,9 +50,7 @@
 
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
-<h3> Algumas de minhas redes sociais, caso deseje entrar em contato comigo! <h3/>
-
-<h3>Me adicione⤵️<h3/>
+<h3> Algumas de minhas redes sociais, caso deseje entrar em contato comigo, me addicione!⤵️<h3/>
 <div> 
   <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "e-mail:franciscoamj1001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
