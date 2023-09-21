@@ -1,19 +1,12 @@
 <h2>Hello World, tudo bem? Eu sou Francisco Junior!<h2/>
 <h4>• Estudante de graduação em sistemas de informação - UFERSA - CMA;<h4/>
-
 <h4>• Em busca de um estágio na área de desenvolvimento web, mas especificamente focado na parte de desenvolvimento front-end;<h4/>
-
 <h4>• Estou entre aqueles que acreditam que a tecnologia muda a vida das pessoas para melhor;<h4/>
-
 <h4>• Sempre disposto a aprender cada vez mais, e mergulhar no universo tecnologico;<h4/>
-
 <h4>• Gosto muito de trabalhar em grupo, sou esforçado e estou sempre aberto a aprender algo novo e me desenvolver cada vez mais, de acordo com cada necessidade;<h4/>
-
 <h4>• Estou estudando um curso extra curricular que contém as seguintes tecnologias: HTML, CSS, JAVASCRIPT, TYPESCRIPT, SASS, BOTSTRAP, GIT, GITHUB, REACT, NODEJS(ESPRESSJS), SQL(POSTGRESQL), MONGODB;<h4/>
-
 <h4>• Fique a vontade para olhar o meu perfil.<h4/>
 <h4>Historico das principais contribuicoes, e grafico das linguagens mais utilizadas<h4/>
-
 <div align="center">
   <a href="https://github.com/FranciiscoJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
