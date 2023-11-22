@@ -1,7 +1,8 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<!--<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd"/>
 &nbsp;&nbsp;&nbsp;
+-->
 
-<p align="center"> Me chamo Francisco Júnior, atualmente Bacharelando em sistemas de informação. <br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap <strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong>
+<p align="center"> Me chamo Francisco Júnior, atualmente Bacharelando em sistemas de informação. <br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap, o meu primeiro contato com o mundo da programação foi no primeiro período da graduação, e desde então é uma área a qual me instiga muito, está cada vez mais adquirindo novos conhecimentos e aprimorando minhas habilidades <strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong>
 Desenvolvedor Web Front-End.</p>&nbsp;
 
 <div align="center">
@@ -56,7 +57,6 @@ Desenvolvedor Web Front-End.</p>&nbsp;
 &nbsp;
 
 ## Contacts:
-
 <div> 
 <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a>
