@@ -1,8 +1,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> Me chamo Francisco Júnior, atualmente Bacharelando em sistemas de informação. <br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap<strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong> 
-<strong>Desenvolvedor Web Front-End</strong> focused on web development.</p>&nbsp;
+<p align="center"> Me chamo Francisco Júnior, atualmente Bacharelando em sistemas de informação. <br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap 
+<strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong> 
+Desenvolvedor Web Front-End.</p>&nbsp;
 
 <div align="center">
   <a href="https://github.com/FranciiscoJunior">
