@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> Me chamo Francisco Júnior, atualmente Bacharelando em sistemas de informação. <br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap<strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong> 
@@ -12,12 +12,7 @@
  
  &nbsp;
  &nbsp;
-
-## My Skills
-
-#### Main Stack:
-
-<div style="display: inline_block">
+#### Tecnologias que mais utilizo:
 
  <img align="center" alt="junior-BOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
