@@ -16,6 +16,7 @@ Desenvolvedor Web Front-End.</p>&nbsp;
 #### Tecnologias que mais utilizo:
 
 <div style="display: inline_block">
+  <img align="center" alt="junior-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
  <img align="center" alt="junior-BOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
@@ -29,9 +30,11 @@ Desenvolvedor Web Front-End.</p>&nbsp;
 
   <img align="center" alt="junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+  <img align="center" alt="junior-POSTEGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
+#### Tecnologias que estudarei futuramente:
 
   <img align="center" alt="junior-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
@@ -43,15 +46,7 @@ Desenvolvedor Web Front-End.</p>&nbsp;
 
   <img align="center" alt="junior-ESPRESSJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-#### Databases:
-
-  <img align="center" alt="junior-POSTEGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
-#### Workstation Tools:
-
-<img align="center" alt="junior-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 &nbsp;
 ## Minhas redes sociais:
