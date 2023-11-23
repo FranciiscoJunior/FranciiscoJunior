@@ -30,14 +30,11 @@ Desenvolvedor Web Front-End.</p>&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### IDES que utilizo e areas de trabalho;
+#### IDES que utilizo e areas de trabalho;
 
   <img align="center" alt="junior-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
   <img align="center" alt="junior-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-  <img align="center" alt="junior-Windows" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png
-">
 
 #### Tecnologias que estudarei futuramente:
 
