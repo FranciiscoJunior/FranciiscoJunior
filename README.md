@@ -1,7 +1,6 @@
 <!--<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd"/>
 &nbsp;&nbsp;&nbsp;
 -->
-
 <p align="center"> Me chamo Francisco Júnior, atualmente Bacharelando em sistemas de informação. <br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap, o meu primeiro contato com o mundo da programação foi no primeiro período da graduação, e desde então é uma área a qual me instiga muito, está cada vez mais adquirindo novos conhecimentos e aprimorando minhas habilidades <strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong>
 Desenvolvedor Web Front-End.</p>&nbsp;
 
@@ -13,14 +12,11 @@ Desenvolvedor Web Front-End.</p>&nbsp;
  
  &nbsp;
  &nbsp;
-#### Tecnologias que mais utilizo:
+#### Tecnologias que utilizo nos meus projetos e estudo com mais frequência:
 
 <div style="display: inline_block">
-  <img align="center" alt="junior-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
  <img align="center" alt="junior-BOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-  <img align="center" alt="junior-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
   <img align="center" alt="junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -33,6 +29,15 @@ Desenvolvedor Web Front-End.</p>&nbsp;
   <img align="center" alt="junior-POSTEGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### IDES que utilizo e areas de trabalho;
+
+  <img align="center" alt="junior-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
+  <img align="center" alt="junior-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+  <img align="center" alt="junior-Windows" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png
+">
 
 #### Tecnologias que estudarei futuramente:
 
