@@ -1,10 +1,12 @@
 <!--<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd"/>
 &nbsp;&nbsp;&nbsp;
 -->
-<p align="center"> 🖤❤️🤍 Olá, seja bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
+<p align="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
 <hr>
 
-<br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap, o meu primeiro contato com o mundo da programação foi no primeiro período da graduação, e desde então é uma área a qual me instiga muito, está cada vez mais adquirindo novos conhecimentos e aprimorando minhas habilidades <strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong>
+<br>Me chamo Francisco Júnior, Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA - CMA, sou desenvolvedor Web Front-End, utilizando as tecnologias HTML5, CSS3, BOOTSTRAP & JAVASCRIPT, o meu primeiro contato com o mundo da programação foi no primeiro período da faculdade e desde então foi a área a qual me identifiquei mais, fazendo com que meus olhos se voltssem para esse mundo fascinante que é a tecnologia, estou constantemente me aprimorando em busca de novos desafios que gerem novos aprendizados e aumentem minhas habilidades.
+
+<strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong>
 Desenvolvedor Web Front-End.</p>&nbsp;
 
 <div align="center">
