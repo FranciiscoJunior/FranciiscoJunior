@@ -4,7 +4,7 @@
 <p align="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
 <hr>
 
-<br><h1>🗣️Me chamo Francisco Júnior, Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA - CMA, sou desenvolvedor Web Front-End, utilizando as tecnologias HTML5, CSS3, BOOTSTRAP & JAVASCRIPT, o meu primeiro contato com o mundo da programação foi no primeiro período da faculdade e desde então foi a área a qual me identifiquei mais, fazendo com que meus olhos se voltssem para esse mundo fascinante que é a tecnologia, estou constantemente me aprimorando em busca de novos desafios que gerem novos aprendizados e aumentem minhas habilidades.</h1><hr>
+<br><h5>🗣️Me chamo Francisco Júnior, Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA - CMA, sou desenvolvedor Web Front-End, utilizando as tecnologias HTML5, CSS3, BOOTSTRAP & JAVASCRIPT, o meu primeiro contato com o mundo da programação foi no primeiro período da faculdade e desde então foi a área a qual me identifiquei mais, fazendo com que meus olhos se voltssem para esse mundo fascinante que é a tecnologia, estou constantemente me aprimorando em busca de novos desafios que gerem novos aprendizados e aumentem minhas habilidades.</h5><hr>
 
 <strong align="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong></p>&nbsp;
 
@@ -16,7 +16,7 @@
  
  &nbsp;
  &nbsp;
-## ⚒️ Tecnologias que já utilizei nos meus projetos e estudo com mais frequência:
+#### ⚒️ Tecnologias que já utilizei nos meus projetos e estudo com mais frequência:
 
 <div style="display: inline_block">
 
@@ -34,7 +34,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## ⚙️ IDES que utilizo e areas de trabalho;
+#### ⚙️ IDES que utilizo e areas de trabalho;
 
   <img align="center" alt="junior-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
@@ -43,7 +43,7 @@
   <img align="center" alt="junior-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 
-## ⌛Tecnologias que estudarei futuramente:
+#### ⌛Tecnologias que estudarei futuramente:
 
   <img align="center" alt="junior-TYPESCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
@@ -56,7 +56,7 @@
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
 &nbsp;
-## 📩 Minhas redes sociais:
+#### 📩 Minhas redes sociais:
 
 <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
