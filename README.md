@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 -->
 <p align="center"> 🖤❤️🤍 Olá, seja bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
-
+<hr>
 
 <br><br> Sou desenvolvedor web Front-End, Utilizando principalmente as tecnologias HTML5, CSS3, Javascript e Bootstrap, o meu primeiro contato com o mundo da programação foi no primeiro período da graduação, e desde então é uma área a qual me instiga muito, está cada vez mais adquirindo novos conhecimentos e aprimorando minhas habilidades <strong>Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong>
 Desenvolvedor Web Front-End.</p>&nbsp;
