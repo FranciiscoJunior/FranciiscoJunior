@@ -16,7 +16,6 @@
 </div>
  
  &nbsp;
- &nbsp;
 #### ⚒️ Tecnologias que já utilizei nos meus projetos e estudo com mais frequência:
 
 <div style="display: inline_block">
@@ -56,7 +55,6 @@
 
 <img align="center" alt="junior-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 
-&nbsp;
 #### 📩 Minhas redes sociais:
 
 <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
