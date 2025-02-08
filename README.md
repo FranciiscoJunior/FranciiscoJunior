@@ -1,4 +1,4 @@
-<img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
