@@ -40,9 +40,6 @@
 
   <img align="center" alt="junior-Next" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
 
-  </div>
-  <div style="display: inline_block" aligm-item="center">
-
   <img align="center" alt="junior-EXPRESS.JS" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png">
 
   <img align="center" alt="junior-SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -69,5 +66,3 @@
 <a href="https://www.linkedin.com/in/francisco-junior-%F0%9F%92%BB-348a14209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https:https://wa.me/5584991347327/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-![Snake animation](https://github.com/FranciiscoJunior/FranciiscoJunior/blob/output/github-contribution-grid-snake.svg)
