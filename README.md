@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd"/>
 &nbsp;&nbsp;&nbsp;
--->
+
 <p align="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
 <hr>
 
@@ -16,9 +16,9 @@
  
  &nbsp;
  &nbsp;
-<h1 align"center">⚒️⚙️Tecnologias e ferramentas utilizadas e que serão estudadas⚙️⚒️</h1>
+<h1 align="center">⚒️⚙️Tecnologias e ferramentas utilizadas e que serão estudadas⚙️⚒️</h1>
 
-<div style="display: inline_block align-items="center">
+<div style="display: inline_block" align="center">
 
   <img align="center" alt="junior-HTML" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
 
@@ -61,8 +61,10 @@
 &nbsp;
 
 <h1 align="center">📩 Minhas redes sociais 📩</h1>
+<div align="center">
 <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato.franciscoamj1001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/francisco-junior-%F0%9F%92%BB-348a14209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https:https://wa.me/5584991347327/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
