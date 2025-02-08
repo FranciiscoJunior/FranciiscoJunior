@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/FranciiscoJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=nightowl"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
  
  &nbsp;
@@ -56,7 +56,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="600px" max-width="400px" width="400px" align-item="right" alt="Computador Juniiordev">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="600px" max-width="400px" width="400px" align-item="center" alt="Computador Juniiordev">
 
 &nbsp;
 
