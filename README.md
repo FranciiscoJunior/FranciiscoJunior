@@ -1,14 +1,14 @@
-<!--<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FranciiscoJunior/FranciiscoJunior/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd"/>
 &nbsp;&nbsp;&nbsp;
 -->
-<p align-text="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
+<p align="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
 <hr>
 
 <br>🗣️Me chamo Francisco Júnior, Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA - CMA, sou desenvolvedor Web Front-End, utilizando as tecnologias HTML5, CSS3, BOOTSTRAP & JAVASCRIPT, o meu primeiro contato com o mundo da programação foi no primeiro período da faculdade e desde então foi a área a qual me identifiquei mais, fazendo com que meus olhos se voltssem para esse mundo fascinante que é a tecnologia, estou constantemente me aprimorando em busca de novos desafios que gerem novos aprendizados e aumentem minhas habilidades.
-<strong><p align-text="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong></p>&nbsp;
+<strong><p align="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong></p>&nbsp;
 <hr>
 
-<div align-text="center">
+<div align="center">
   <a href="https://github.com/FranciiscoJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciiscoJunior&layout=compact&langs_count=7&theme=nightowl"/>  
@@ -18,7 +18,7 @@
  &nbsp;
 ## ⚒️ Tecnologias e ferramentas utilizadasn e que serão estudadas:
 
-<div style="display: inline_block">
+<div style="display: inline_block align-items="center">
 
   <img align="center" alt="junior-HTML" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
 
@@ -56,7 +56,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="600px" max-width="600px" width="600px" align-item="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/Franciiscojunior/Franciiscojunior/master/image/computer-illustration.png" min-width="600px" max-width="400px" width="400px" align-item="right" alt="Computador Juniiordev">
 
 &nbsp;
 #### 📩 Minhas redes sociais:
