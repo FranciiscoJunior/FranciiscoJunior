@@ -16,7 +16,7 @@
  
  &nbsp;
  &nbsp;
-## ⚒️ Tecnologias e ferramentas utilizadasn e que serão estudadas:
+<h1 align-text="center">⚒️⚙️Tecnologias e ferramentas utilizadas e que serão estudadas⚙️⚒️</h1>
 
 <div style="display: inline_block align-items="center">
 
@@ -56,11 +56,11 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Franciiscojunior/Franciiscojunior/master/image/computer-illustration.png" min-width="600px" max-width="400px" width="400px" align-item="right" alt="Computador Juniiordev">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="600px" max-width="400px" width="400px" align-item="right" alt="Computador Juniiordev">
 
 &nbsp;
-#### 📩 Minhas redes sociais:
 
+<h1 align-text="center">📩 Minhas redes sociais 📩</h1>
 <a href="https://www.instagram.com/junior_assis07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato.franciscoamj1001@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/francisco-junior-%F0%9F%92%BB-348a14209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
