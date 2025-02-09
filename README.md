@@ -4,7 +4,7 @@
 <p align="center"> 🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
 <hr>
 
-<br>🗣️Me chamo Francisco Júnior, Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA - CMA, sou desenvolvedor Web Front-End, utilizando as tecnologias HTML5, CSS3, BOOTSTRAP & JAVASCRIPT, o meu primeiro contato com o mundo da programação foi no primeiro período da faculdade e desde então foi a área a qual me identifiquei mais, fazendo com que meus olhos se voltssem para esse mundo fascinante que é a tecnologia, estou constantemente me aprimorando em busca de novos desafios que gerem novos aprendizados e aumentem minhas habilidades.
+<br>🗣️Me chamo Francisco Júnior, Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA. Desenvolvedor Web, com experiência e vários projetos desenvolvidos, principalmente projetos Front-End. Utilizando HTML5, CSS3, Javascript, React.js, Next.js, com sólidos conhecimentos em Banco de Dados relacional, utilizando o PostgreSQL e Git para versionamentos de projetos desenvolvidos e armazenados no Github. Apaixonado por desenvolvimento web e suas vertentes, desde os métodos de UI/UX até às experiências finas das etapas que envolve o desenvolvimento de software. Com altas habilidades analíticas e pensamento crítico, possuindo também bom relacionamento interpessoal, gostando de trabalhar em equipe, boa comunicação, organizado, proativo, resiliente buscando sempre adquirir novas habilidades com novos desafios e resolução de problemas.
 <strong><p align="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor</strong></p>&nbsp;
 <hr>
 
