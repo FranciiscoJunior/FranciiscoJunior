@@ -17,17 +17,9 @@
  
  &nbsp;
  &nbsp;
-<h1 align="center">⚒️⚙️Tecnologias e ferramentas utilizadas e que serão estudadas⚙️⚒️</h1>
+<h1 align="center">⚒️⚙️My stack & Tools⚙️⚒️</h1>
 
 <div style="display: inline_block" align="center">
-
-  <img align="center" alt="junior-HTML" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
-
-  <img align="center" alt="junior-CSS" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
-
-  <img align="center" alt="junior-BOTSTRAP" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png">
-
-  <img align="center" alt="junior-TAILWIND" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
 
   <img align="center" alt="junior-Js" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
 
@@ -37,15 +29,7 @@
 
   <img align="center" alt="junior-NPM" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png">
 
-  <img align="center" alt="junior-Node" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
-
   <img align="center" alt="junior-Next" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
-
-  <img align="center" alt="junior-EXPRESS.JS" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png">
-
-  <img align="center" alt="junior-SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-
-  <img align="center" alt="junior-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
 
   <img align="center" alt="junior-Figma" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">
 
@@ -53,7 +37,7 @@
 
   <img align="center" alt="junior-VS-Code" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png">
 
-  <img align="center" alt="junior-MONGODB" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png">
+  <img align="center" alt="junior-MONGODB" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
 
 </div>
 
@@ -68,4 +52,5 @@
 <a href="https://www.linkedin.com/in/franciscojuniior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https:https://wa.me/5584991347327/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=120a8f&height=120&section=footer"/>
