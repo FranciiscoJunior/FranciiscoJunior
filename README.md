@@ -14,6 +14,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <h2 align="center">My stack & Tools</h2>
 
 ###
@@ -58,4 +63,6 @@
   <img href="https://wa.me/5584991347327?text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github..." target="blank" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D2BCFF&height=120&section=footer"/>
+&nbsp;&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=120a8f&height=120&section=footer"/>
