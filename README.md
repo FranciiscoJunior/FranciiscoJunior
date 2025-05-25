@@ -1,4 +1,4 @@
-<img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#120a8f&height=120&section=header"/>
+<img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##D2BCFF&height=120&section=header"/>
 &nbsp;&nbsp;
 
 <p align="center">🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
@@ -50,12 +50,12 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img href="https://www.linkedin.com/in/franciscojuniior/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img href="https://wa.me/5584991347327?text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github..." target="blank" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=120a8f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D2BCFF&height=120&section=footer"/>
