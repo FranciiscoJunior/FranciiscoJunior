@@ -48,3 +48,7 @@
 &nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=120a8f&height=120&section=footer"/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FranciiscoJuniior/FranciiscoJunior/output/snake.svg" alt="Snake animation" />
