@@ -5,7 +5,11 @@
 
 ###
 
-<p align="center">🗣️Me chamo Francisco Júnior, Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA. Desenvolvedor Web, com experiência e vários projetos desenvolvidos, principalmente projetos Front-End. Utilizando HTML5, CSS3, Javascript, React.js, Next.js, com sólidos conhecimentos em Banco de Dados relacional, utilizando o PostgreSQL e Git para versionamentos de projetos desenvolvidos e armazenados no Github. Apaixonado por desenvolvimento web e suas vertentes, desde os métodos de UI/UX até às experiências finas das etapas que envolve o desenvolvimento de software. Com altas habilidades analíticas e pensamento crítico, possuindo também bom relacionamento interpessoal, gostando de trabalhar em equipe, boa comunicação, organizado, proativo, resiliente buscando sempre adquirir novas habilidades com novos desafios e resolução de problemas.</p>
+<p align="center">🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido (UFERSA).
+
+Desenvolvedor Web com experiência em projetos Front-End, utilizando tecnologias como Html5, Css3, Javascript, React.js, Typescript, Tailwind, Bootstrap e Next.js. Possuo conhecimentos sólidos em Banco de Dados relacional. linguagem SQL com PostgreSQL e Git para controle e versionamento de projetos, armazenados no Github.
+
+Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX até experiências finas em etapas de desenvolvimento de software. Possuo habilidades analíticas e pensamento crítico, além de bom relacionamento interpessoal, trabalhando bem em equipe, com boa comunicação, organização, proatividade e resiliência.</p>
 
 ###
 
@@ -56,11 +60,15 @@
 
 <div align="center">
   <img href="https://www.linkedin.com/in/franciscojuniior/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img href="https://wa.me/5584991347327?text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github..." target="blank" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img href="https://wa.me/5584991347327?text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github..." target="blank" src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
+
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciiscoJunior.FranciiscoJunior&"  />
 </div>
 
 &nbsp;&nbsp;
