@@ -5,11 +5,11 @@
 
 ###
 
-<p align="center">🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido (UFERSA).
+<p align="center">🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido (UFERSA).</p>
 
-Desenvolvedor Web com experiência em projetos Front-End, utilizando tecnologias como Html5, Css3, Javascript, React.js, Typescript, Tailwind, Bootstrap e Next.js. Possuo conhecimentos sólidos em Banco de Dados relacional. linguagem SQL com PostgreSQL e Git para controle e versionamento de projetos, armazenados no Github.
+<p align="center">Desenvolvedor Web com experiência em projetos Front-End, utilizando tecnologias como Html5, Css3, Javascript, React.js, Typescript, Tailwind, Bootstrap e Next.js. Possuo conhecimentos sólidos em Banco de Dados relacional, linguagem SQL com PostgreSQL e Git para controle e versionamento de projetos, armazenados no Github.</p>
 
-Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX até experiências finas em etapas de desenvolvimento de software. Possuo habilidades analíticas e pensamento crítico, além de bom relacionamento interpessoal, trabalhando bem em equipe, com boa comunicação, organização, proatividade e resiliência.</p>
+<p align="center">Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX até experiências finas em etapas de desenvolvimento de software. Possuo habilidades analíticas e pensamento crítico, além de bom relacionamento interpessoal, trabalhando bem em equipe, com boa comunicação, organização, proatividade e resiliência.</p>
 
 ###
 
@@ -58,13 +58,12 @@ Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX at�
 
 ###
 
-<div align="center">
-  <img href="https://www.linkedin.com/in/franciscojuniior/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img href="https://wa.me/5584991347327?text=Ol%C3%A1%2C%20vim%20do%20seu%20perfil%20do%20Github..." target="blank" src="https://raw.githubusercontent.com/FranciiscoJunior/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img href="https://www.linkedin.com/in/franciscojuniior/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 <div align="center">
