@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciiscoJunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center">My stack & Tools</h2>
+<h2 align="center">Minhas tecnologias & ferramentas</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="center">Entre em contato por minhas redes sociais</h2>
+<h2 align="center">Entre em contato pelas minhas redes sociais</h2>
 
 ###
 
