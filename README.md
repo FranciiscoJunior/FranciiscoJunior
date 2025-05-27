@@ -1,7 +1,7 @@
 <img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##D2BCFF&height=120&section=header"/>
 &nbsp;&nbsp;
 
-<p align="center">🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil 🖤❤️🤍.</p>
+<p align="center">🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil!🖤❤️🤍</p>
 
 ###
 
@@ -64,7 +64,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img href="https://www.linkedin.com/in/franciscojuniior/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
 &nbsp;
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciiscoJunior.FranciiscoJunior&"  />
