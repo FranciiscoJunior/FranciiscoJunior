@@ -65,10 +65,12 @@
   <img href="https://www.linkedin.com/in/franciscojuniior/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+&nbsp;
+
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=FranciiscoJunior.FranciiscoJunior&"  />
 </div>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=120a8f&height=120&section=footer"/>
