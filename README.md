@@ -1,31 +1,20 @@
 <img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##D2BCFF&height=120&section=header"/>
-&nbsp;&nbsp;
-
+&nbsp;
 <p align="center">🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil!🖤❤️🤍</p>
-
-###
-
 <p align="center">🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido (UFERSA).</p>
 
 <p align="center">Desenvolvedor Web com experiência em projetos Front-End, utilizando tecnologias como Html5, Css3, Javascript, React.js, Typescript, Tailwind, Bootstrap e Next.js. Possuo conhecimentos sólidos em Banco de Dados relacional, linguagem SQL com PostgreSQL e Git para controle e versionamento de projetos, armazenados no Github.</p>
 
 <p align="center">Apaixonado por desenvolvimento Web e suas vertentes, desde métodos de UI/UX até experiências finas em etapas de desenvolvimento de software. Possuo habilidades analíticas e pensamento crítico, além de bom relacionamento interpessoal, trabalhando bem em equipe, com boa comunicação, organização, proatividade e resiliência.</p>
-
-###
-
+&nbsp;
 <h4 align="center">Estou entre aqueles que acredita que a tecnologia muda a vida das pessoas para melhor!</h4>
-&nbsp;&nbsp;
-
-###
-
+&nbsp;
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FranciiscoJunior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciiscoJunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <h2 align="center">Minhas tecnologias & ferramentas</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -50,13 +39,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
-&nbsp;&nbsp;
-
-###
+&nbsp;
 
 <h2 align="center">Entre em contato pelas minhas redes sociais</h2>
-
-###
 
   <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
