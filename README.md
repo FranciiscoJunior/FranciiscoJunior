@@ -14,9 +14,7 @@
 </div>
 
 <h2 align="center">Minhas tecnologias & ferramentas</h2>
-
 <div align="center">
-<h2 align="center">Front-end</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="javascript logo"  />
