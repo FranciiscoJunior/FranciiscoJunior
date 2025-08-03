@@ -1,7 +1,7 @@
 <img align="center" style="margin-top:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##D2BCFF&height=120&section=header"/>
 &nbsp;
 <p align="center">🖤❤️🤍 Olá, sejam bem vindos(a) ao meu perfil!🖤❤️🤍</p>
-<p align="center">🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido (UFERSA).</p>
+<p align="center">🗣️ Me chamo, Francisco Júnior. Bacharel em Sistemas de Informação pela Universidade Federal Rural do Semi-árido - UFERSA.</p>
 
 <p align="center">Desenvolvedor Web com experiência em projetos Front-End, utilizando tecnologias como Html5, Css3, Javascript, React.js, Typescript, Tailwind, Bootstrap e Next.js. Possuo conhecimentos sólidos em Banco de Dados relacional, linguagem SQL com PostgreSQL e Git para controle e versionamento de projetos, armazenados no Github.</p>
 
